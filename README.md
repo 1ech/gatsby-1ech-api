@@ -1,4 +1,4 @@
-# pancake-api
+# 1ech-api
 
 Set of endpoints utilities for PancakeSwap, based on Serverless.
 
